@@ -88,13 +88,13 @@
 ## Наивный	нормальный	байесовский	классификатор
 Наивный байесовский классификатор (naїve Bayes) — специальный частный случай байесовского классификатора, основанный на дополнительном предположении, что объекты x  описываются n статистически независимыми признаками:
 
-![Иллюстрация к проекту](https://github.com/Pavline/Systems-and-methods-of-decision-making/blob/master/nb1.jpg)
+![Иллюстрация к проекту](https://github.com/Pavline/Systems-and-methods-of-decision-making/blob/master/nb1.png)
 
 Предположение о независимости означает, что функции правдоподобия классов представимы в виде
 
-![Иллюстрация к проекту](https://github.com/Pavline/Systems-and-methods-of-decision-making/blob/master/nb2.jpg)
+![Иллюстрация к проекту](https://github.com/Pavline/Systems-and-methods-of-decision-making/blob/master/nb2.png)
 
-где  ![Иллюстрация к проекту](https://github.com/Pavline/Systems-and-methods-of-decision-making/blob/master/nb3.jpg) — плотность распределения значений  j-го признака для класса y.
+где  ![Иллюстрация к проекту](https://github.com/Pavline/Systems-and-methods-of-decision-making/blob/master/nb3.png) — плотность распределения значений  j-го признака для класса y.
 
 Предположение о независимости существенно упрощает задачу, так как оценить n одномерных плотностей гораздо легче, чем одну n-мерную плотность. К сожалению, оно крайне редко выполняется на практике, отсюда и название метода.
 
