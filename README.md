@@ -75,7 +75,6 @@
 
  ![Иллюстрация к проекту](https://github.com/Pavline/Systems-and-methods-of-decision-making/blob/master/wpw.png) , где K(z) — функция ядра (не возрастающая от 0 до бесконечности), а h — ширина окна (окно — сферическая окрестность классифицируемого объекта u радиуса h).
 
-Чаще всего применяются 5 типов ядер:
 
 ![Иллюстрация к проекту](https://github.com/Pavline/Systems-and-methods-of-decision-making/blob/master/ker.png)
 
